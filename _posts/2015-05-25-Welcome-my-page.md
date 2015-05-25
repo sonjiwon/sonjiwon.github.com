@@ -14,6 +14,8 @@ categories: jekyll update
 
 - 인용
 
+-------
+
 
 > 이번주 5/27 11 전까지 과제 제출
 
@@ -29,12 +31,10 @@ categories: jekyll update
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
-------
 
-
----
+```
 '코드'
----
+```
 
  물품 | 값
 -----|----
